@@ -1,0 +1,15 @@
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\bin\Debug\net6.0\Dzadacha_58.exe
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\bin\Debug\net6.0\Dzadacha_58.deps.json
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\bin\Debug\net6.0\Dzadacha_58.runtimeconfig.json
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\bin\Debug\net6.0\Dzadacha_58.dll
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\bin\Debug\net6.0\Dzadacha_58.pdb
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\obj\Debug\net6.0\Dzadacha_58.csproj.AssemblyReference.cache
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\obj\Debug\net6.0\Dzadacha_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\obj\Debug\net6.0\Dzadacha_58.AssemblyInfoInputs.cache
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\obj\Debug\net6.0\Dzadacha_58.AssemblyInfo.cs
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\obj\Debug\net6.0\Dzadacha_58.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\obj\Debug\net6.0\Dzadacha_58.dll
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\obj\Debug\net6.0\refint\Dzadacha_58.dll
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\obj\Debug\net6.0\Dzadacha_58.pdb
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\obj\Debug\net6.0\Dzadacha_58.genruntimeconfig.cache
+C:\Users\Олег\Documents\Examplss\examp_lis_23\Dzadacha_58\obj\Debug\net6.0\ref\Dzadacha_58.dll
